@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /learning/
-title: learning
+title: Learning
 description: These are the MOOCs that I have took, and how I feel about them.
 nav: true
 nav_order: 6
