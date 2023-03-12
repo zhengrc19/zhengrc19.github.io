@@ -32,3 +32,27 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"Xu":
+  - firstname: ["Huazhe"]
+    url: http://hxu.rocks
+
+"Pan":
+  - firstname: ["Yan"]
+    url: https://panyan7.github.io/
+
+"Gao":
+  - firstname: ["Yang"]
+    url: http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html
+
+"Yao":
+  - firstname: ["Xin"]
+    url: https://scholar.google.com/citations?user=j1WaLpwAAAAJ
+
+"Hu":
+  - firstname: ["Kaizhe"]
+    url: https://scholar.google.com/citations?user=mPpYLhcAAAAJ
+
+"Chen":
+  - firstname: ["Boyuan"]
+    url: https://people.csail.mit.edu/boyuanc/
