@@ -51,7 +51,7 @@ This course introduces students to the principles and methods of mathematical mo
 
 ## **Python Programming** (2018)
 ##### Course Instructor
-This course teaches the fundamentals of programming with the Python programming language. Basic concepts like variables, data types, functions, control flows, loops, and object-oriented programming are covered. The content is mainly based off of the massive open online course (MOOC) <a href='https://www.coursera.org/learn/learn-to-program'>Learn to Program: The Fundamentals</a> by University of Toronto, which I personally found very easy to follow.
+This course teaches the fundamentals of programming with the Python programming language. Basic concepts like variables, data types, functions, control flows, loops, and object-oriented programming are covered. The content is mainly based off of the massive open online course (MOOC) <a href='/learning/#ltp'>Learn to Program: The Fundamentals</a> by University of Toronto, which I personally found very easy to follow.
 ##### Course Instructor 
 - **Institution**: High School Affiliated to Renmin University of China
 - **Co-Instructors**: <a href='https://dw61.github.io/'>Letao (Diego) Wang</a>, <a href='https://www.linkedin.com/in/boheng-zhao-64915a190/'>Boheng (Bill) Zhao</a>, <a href='https://www.linkedin.com/in/shaojinguo/'>Shaojin (Jack) Guo</a>, Bo Li
