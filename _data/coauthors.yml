@@ -51,8 +51,12 @@
 
 "Hu":
   - firstname: ["Kaizhe"]
-    url: https://scholar.google.com/citations?user=mPpYLhcAAAAJ
+    url: https://hukz18.github.io/
 
 "Chen":
   - firstname: ["Boyuan"]
     url: https://people.csail.mit.edu/boyuanc/
+
+"Yuan":
+  - firstname: ["Zhecheng"]
+    url: https://gemcollector.github.io/

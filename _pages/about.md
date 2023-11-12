@@ -2,11 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: "<a href='https://www.cs.tsinghua.edu.cn/'>Department of CST</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>. Institution email: zhengrc19 at mails.tsinghua.edu.cn"
+# subtitle: "<a href='https://www.cs.tsinghua.edu.cn/'>Department of CST</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>. Institution email: zhengrc19 at mails.tsinghua.edu.cn"
+subtitle: "Powertrain Data Scientist, Lucid Motors. Company email: rayzheng at lucidmotors.com<br>Class of 2023, Department of CST, Tsinghua University. Institution email: zhengrc19 at tsinghua.org.cn"
 
 profile:
   align: right
-  image: myself.jpeg
+  image: myself2.jpeg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>TUSPark Building C Flr. 19</p>
@@ -24,11 +25,13 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a senior year undergrad at the Department of Computer Science and Technology (CST), Tsinghua University. Thank you for visiting my page!
+Hi! I'm a Data Scientist at the Powertrain Data team of <a href='https://lucidmotors.com/'>Lucid Motors</a>, located in the San Francisco Bay Area. Thank you for visiting my page!
 
-My research interests include robot and reinforcement learning, with publications listed <a href='publications'>here</a>. I am fortunate to be advised by Professor <a href='http://hxu.rocks'>Huazhe Xu</a> at the <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>, Tsinghua University.
+In Summer 2023, I obtained my bachelor's degree as Outstanding Graduate (优秀毕业生) from the <a href='https://www.cs.tsinghua.edu.cn/'>Department of Computer Science and Technology (CST)</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University (THU)</a>. 
 
-My experiences cover both the industry and the academia, mainly in machine learning and software engineering. In Spring 2023, I am the teaching assistant of IIIS's Deep Reinforcement Learning course. Prior to that, I was also the instructor/TA of 4 courses, listed <a href='teaching'>here</a>.
+My research interests include robot and reinforcement learning, with publications listed <a href='publications'>here</a>. I was fortunate to be advised by Prof. <a href='http://hxu.rocks'>Huazhe Xu</a> at the <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>, Tsinghua University. I try to look for problems in the real world which can be solved with artificial intelligence.
 
-I watch European football, specifically the <a href='https://www.premierleague.com/'>English Premier League</a> and <a href='https://www.uefa.com/uefachampionsleague/'>UEFA Champions League</a>. I support <a href='https://www.mancity.com/'>Manchester City FC</a>. My sports interests include football (both American and European), volleyball, and badminton.
+My experiences cover both the industry and the academia, mainly in deep learning and software engineering. In Spring 2023, I was the teaching assistant of IIIS's Deep Reinforcement Learning course. Prior to that, I was also the instructor/TA of 4 courses, listed <a href='teaching'>here</a>. In Summer 2022, I was an Algorithm Engineer Intern at <a href='http://kuaishou.cn/'>Kuaishou</a>, focusing on causal inference and discovery.
+
+I watch European football, specifically the <a href='https://www.premierleague.com/'>English Premier League</a> and <a href='https://www.uefa.com/uefachampionsleague/'>UEFA Champions League</a>. I have been a fan of <a href='https://www.mancity.com/'>Manchester City FC</a> since 2013. My sports interests include football (both American and European), volleyball, and badminton.
 <!-- This website is still under construction, so you are welcome to check out my <a href='https://scholar.google.com/citations?user=gwUGHwsAAAAJ'>Google Scholar</a>, <a href='https://github.com/zhengrc19'>Github</a>, and <a href='https://www.linkedin.com/in/ray-zheng-366053132'>Linkedin</a> profiles to learn more about me :-) -->
