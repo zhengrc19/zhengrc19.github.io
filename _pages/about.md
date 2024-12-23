@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: "<a href='https://www.cs.tsinghua.edu.cn/'>Department of CST</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>. Institution email: zhengrc19 at mails.tsinghua.edu.cn"
-subtitle: "Powertrain Data Scientist, Lucid Motors. Company email: rayzheng at lucidmotors.com<br>Class of 2023, Department of CST, Tsinghua University. Institution email: zhengrc19 at tsinghua.org.cn"
+subtitle: "Machine Learning Engineer, Google<br>Class of 2023, Department of CST, Tsinghua University"
 
 profile:
   align: right
@@ -25,7 +25,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi! I'm a Data Scientist at the Powertrain Data team of <a href='https://lucidmotors.com/'>Lucid Motors</a>, located in the San Francisco Bay Area. Thank you for visiting my page!
+Hi! I'm a Machine Learning Engineer at Google, located in the San Francisco Bay Area. Thank you for visiting my page!
+
+Prior to Google, I was a Data Scientist at the Powertrain Data team of <a href='https://lucidmotors.com/'>Lucid Motors</a>.
 
 In Summer 2023, I obtained my bachelor's degree as Outstanding Graduate (优秀毕业生) from the <a href='https://www.cs.tsinghua.edu.cn/'>Department of Computer Science and Technology (CST)</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University (THU)</a>. 
 
