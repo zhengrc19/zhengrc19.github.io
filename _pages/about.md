@@ -27,9 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi! I'm a Machine Learning Engineer at Google, located in the San Francisco Bay Area. Thank you for visiting my page!
 
-Prior to Google, I was a Data Scientist at the Powertrain Data team of <a href='https://lucidmotors.com/'>Lucid Motors</a>.
-
-In Summer 2023, I obtained my bachelor's degree as Outstanding Graduate (优秀毕业生) from the <a href='https://www.cs.tsinghua.edu.cn/'>Department of Computer Science and Technology (CST)</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University (THU)</a>. 
+Before Google, I was a Data Scientist at the Powertrain Data team of <a href='https://lucidmotors.com/'>Lucid Motors</a>. Prior to Lucid in Summer 2023, I obtained my bachelor's degree as Outstanding Graduate (优秀毕业生) from the <a href='https://www.cs.tsinghua.edu.cn/'>Department of Computer Science and Technology (CST)</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University (THU)</a>. 
 
 My research interests include robot and reinforcement learning, with publications listed <a href='publications'>here</a>. I was fortunate to be advised by Prof. <a href='http://hxu.rocks'>Huazhe Xu</a> at the <a href='https://iiis.tsinghua.edu.cn/en/'>Institute for Interdisciplinary Information Sciences (IIIS)</a>, Tsinghua University. I try to look for problems in the real world which can be solved with artificial intelligence.
 
