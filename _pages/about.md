@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hi! I'm a Senior Machine Learning Engineer at Google, located in the San Francisco Bay Area. Thank you for visiting my page!
 
-At Google, I am currently working on creating the best Agentic Experience on Android phones -- I believe that your phone is the perfect candidate to become your ultimate personal assistant that understands you and helps you complete tasks. Marching towards this goal, our team's project [Gemini Automation](https://x.com/sundarpichai/status/2026743797967958515) was launched on Samsung and Pixel phones in February 2026.
+At Google, I am currently working on creating the best Agentic Experience on Android phones. Marching towards this goal, our team's project [Gemini Automation](https://x.com/sundarpichai/status/2026743797967958515) was launched on Samsung and Pixel phones in February 2026.
 
 Before Google, I was a Data Scientist at the Powertrain Data team of <a href='https://lucidmotors.com/'>Lucid Motors</a>. Prior to Lucid in Summer 2023, I obtained my bachelor's degree as Outstanding Graduate (优秀毕业生) from the <a href='https://www.cs.tsinghua.edu.cn/'>Department of Computer Science and Technology (CST)</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University (THU)</a>. 
 
@@ -35,5 +35,5 @@ My research interests include robot and reinforcement learning, with publication
 
 My experiences cover both the industry and the academia, mainly in artificial intelligence and software engineering. In Spring 2023, I was the teaching assistant of IIIS's Deep Reinforcement Learning course. Prior to that, I was also the instructor/TA of 4 courses, listed <a href='teaching'>here</a>. In Summer 2022, I was an Algorithm Engineer Intern at <a href='http://kuaishou.cn/'>Kuaishou</a>, focusing on causal inference and discovery.
 
-I watch European football, specifically the <a href='https://www.premierleague.com/'>English Premier League</a> and <a href='https://www.uefa.com/uefachampionsleague/'>UEFA Champions League</a>. I have been a fan of <a href='https://www.mancity.com/'>Manchester City FC</a> since 2013. My sports interests include football (both American and European), volleyball, and badminton.
+I watch European football, specifically the <a href='https://www.premierleague.com/'>English Premier League</a> and <a href='https://www.uefa.com/uefachampionsleague/'>UEFA Champions League</a>. I have been a fan of <a href='https://www.mancity.com/'>Manchester City FC</a> since 2013. My sports interests include pickleball, volleyball, football (both American and European), and badminton.
 <!-- This website is still under construction, so you are welcome to check out my <a href='https://scholar.google.com/citations?user=gwUGHwsAAAAJ'>Google Scholar</a>, <a href='https://github.com/zhengrc19'>Github</a>, and <a href='https://www.linkedin.com/in/ray-zheng-366053132'>Linkedin</a> profiles to learn more about me :-) -->
