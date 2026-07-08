@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: "<a href='https://www.cs.tsinghua.edu.cn/'>Department of CST</a>, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>. Institution email: zhengrc19 at mails.tsinghua.edu.cn"
-subtitle: "Machine Learning Engineer, Google<br>Class of 2023, Department of CST, Tsinghua University"
+subtitle: "Senior Machine Learning Engineer, Google<br>Class of 2023, Department of CS, Tsinghua University"
 
 profile:
   align: right
@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi! I'm a Machine Learning Engineer at Google, located in the San Francisco Bay Area. Thank you for visiting my page!
+Hi! I'm a Senior Machine Learning Engineer at Google, located in the San Francisco Bay Area. Thank you for visiting my page!
 
 At Google, I am currently working on creating the best Agentic Experience on Android phones -- I believe that your phone is the perfect candidate to become your ultimate personal assistant that understands you and helps you complete tasks. Marching towards this goal, our team's project [Gemini Automation](https://x.com/sundarpichai/status/2026743797967958515) was launched on Samsung and Pixel phones in February 2026.
 
